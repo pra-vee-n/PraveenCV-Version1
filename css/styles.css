@@ -1,0 +1,33 @@
+body{
+  background-color:#F4FCD9
+}
+h1{
+  color:#00AFC1
+}
+h2{
+  color:#00AFC1
+}
+h3{
+  color:#00AFC1
+}
+
+.contact{
+  height: 3%;
+  width: 3%;
+  
+}
+
+  hr{
+
+    border-style: none;
+    border-top-style: dotted;
+    border-bottom-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+.contact-body{
+  font-size: 120%;
+}
+#full{
+  font-size: 100%;
+}
